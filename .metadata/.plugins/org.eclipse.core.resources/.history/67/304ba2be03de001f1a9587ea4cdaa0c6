@@ -1,0 +1,16 @@
+package Constructor;
+
+public class Student {
+	
+	public Student(String name, int age ) {
+		
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		Student s=new Student("ganesh",20);
+		
+	}
+
+}

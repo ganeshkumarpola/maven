@@ -1,0 +1,21 @@
+package practice;
+
+public class PersonOutPut {
+	
+	public static void main(String[] args) {
+		
+		Person p =new Person();
+		 p.setFname("Pola");
+		 p.setLname("Ganesh");
+		 p.setAge(25);
+		 p.setPhno("1234567890");
+		 p.setCity("hyd");
+		 p.setState("AP");
+		 p.setCountry("India");
+	}
+	
+	
+	
+	
+
+}

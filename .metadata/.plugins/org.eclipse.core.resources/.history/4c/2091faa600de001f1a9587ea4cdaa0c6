@@ -1,0 +1,18 @@
+import Encapsulstion.Person1;
+
+public class Person2 {
+
+	public static void main(String[] args) {
+		
+		Person1 p=new Person1();
+		p.setAge(20);
+		p.setName("Ganeshkumar");
+		
+		String n = p.getName();
+		int a = p.getAge(25);
+		
+		System.out.println("name : "+n+" age "+a);
+
+	}
+
+}

@@ -1,0 +1,22 @@
+package practice;
+
+public class Employee1 {
+	
+	String name;
+	double salary;
+	
+	public Employee1(String name,int salary) {
+		
+//		this.name=name;
+//		this.salary=salary;
+		
+		//System.out.println(this.name+"   :  "+this.salary);	
+		System.out.println(this.toString());
+	}
+	
+	public static void main(String[] args) {
+		
+		Employee1 e =new Employee1("Ganesh",250000);
+	}
+
+}

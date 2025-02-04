@@ -1,0 +1,10 @@
+package AAA;
+
+public class ClassB {
+	
+	public void Methodx() {
+		
+		System.out.println("print class B");
+	}
+
+}

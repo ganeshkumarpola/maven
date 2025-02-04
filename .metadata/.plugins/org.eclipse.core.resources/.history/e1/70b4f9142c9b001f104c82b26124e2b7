@@ -1,0 +1,16 @@
+package practice;
+
+public class Driver5 {
+	
+	public Driver5() {
+		System.out.println();
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		Driver5 d=new Driver5();
+		//System.out.println();
+	}
+
+}

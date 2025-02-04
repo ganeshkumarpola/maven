@@ -1,0 +1,20 @@
+package practice;
+
+public class Gani9 {
+	
+	void gani() {
+		System.out.println("hi ra");
+	}
+	static void kumar() {
+		
+		System.out.println("hi ma");
+	}
+	
+	public static void main(String[] args) {
+		
+		Gani9 ga=new Gani9();
+		ga.kumar();
+		ga.gani();
+	}
+
+}

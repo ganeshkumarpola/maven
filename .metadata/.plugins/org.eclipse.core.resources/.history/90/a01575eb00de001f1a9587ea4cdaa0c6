@@ -1,0 +1,32 @@
+package Encapsulstion;
+
+import javax.swing.Spring;
+
+public class Person1 {
+	
+	private String Name;
+	private int Age; 
+	
+	
+	public String getName() {
+		return Name;
+		
+	}
+	
+	public void setName(String Name) {
+		
+		this.Name=Name;
+	}
+	
+	public int getAge(int age) {
+		return age;
+		
+		
+	}
+	
+	public void setAge(int age) {
+		
+		this.Age= age;
+	}
+
+}

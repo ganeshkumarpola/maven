@@ -1,0 +1,9 @@
+package practice;
+
+public class PersonOutPut {
+	
+	Person p =new Person();
+	
+	
+
+}
